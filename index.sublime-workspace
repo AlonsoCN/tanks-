@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getLE",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ul",
+				"uploaded"
+			],
+			[
+				"uplo",
+				"uploaded"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Prefere",
+				"Preferences: Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"termi",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set sync",
+				"Sync Settings: Upload"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - User"
+			],
+			[
+				"pretier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"sync settings",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"sync se",
+				"Sync Settings: Edit User Settings"
+			],
+			[
+				"package isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro list",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pack",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"forma",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"file hi",
+				"File History: Open recently closed file… (All Projects)"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"Colorsub",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"for",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"format",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"fora",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"JSO",
+				"Set Syntax: JSON"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"jaas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"marko",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"markdw",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta ",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 229.0,
+		"history":
+		[
+			"print('test')",
+			"print test",
+			"1+1",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"clear;",
+			"clear()",
+			"clear",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alonsocn/Downloads/p5.play-master/examples/animation_sprite_sheet.html",
+		"/Users/alonsocn/Desktop/main.html",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/uploader/uploader.component.html",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/uploader/uploader.component.ts",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/uploader/uploader.widget.component.html",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/budget-edit/budget-request/budget-request.component.ts",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/budget-edit/budget-request/budget-request.component.html",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/budget-edit/budget-request-dates/budget-request-dates.component.ts",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/budget-edit/budget-request-dates/budget-request-dates.component.html",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/uploader/uploader.widget.component.ts",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/master-budgeting/uploader/services/upload.service.ts",
+		"/Users/alonsocn/Workspace/c4analytics/bbapi/server/api/mbs/budgetRequest/helpers/budgetRequestEmailService.js",
+		"/Users/alonsocn/Workspace/c4analytics/bbapi/server/shared/clients/atlasClient.js",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/health-check/health-check-report-table/health-check-report-table.component.html",
+		"/Users/alonsocn/Library/Application Support/Sublime Text 3/Packages/User/JsPrettier.sublime-settings",
+		"/Users/alonsocn/Workspace/c4analytics/c4client/src/app/pages/health-check/health-check-report-table/health-check-report-table.component.ts",
+		"/Users/alonsocn/Library/Application Support/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/Users/alonsocn/.hyper.js",
+		"/Users/alonsocn/Kargo/deal-manager/client/buyers-dashboard/bidders/bidders.component.ts",
+		"/Users/alonsocn/Kargo/deal-manager/client/deal-dashboard/deal-groups/discussion/discussion.component.ts",
+		"/Users/alonsocn/Kargo/deal-manager/client/buyers-dashboard/bidders/bidders.component.spec.ts",
+		"/Users/alonsocn/Kargo/deal-manager/client/deal-dashboard/shared/models/discussion.ts",
+		"/Users/alonsocn/Kargo/deal-manager/client/deal-dashboard/deal-groups/discussion/add-edit-discussion/add-edit-discussion.component.ts",
+		"/Users/alonsocn/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/alonsocn/Kargo/deal-manager/.gitignore",
+		"/Users/alonsocn/Kargo/deal-manager/Dockerfile",
+		"/Users/alonsocn/Kargo/deal-manager/docker-compose.yml",
+		"/Users/alonsocn/Kargo/ControlPanel/application/apiv1/controllers/OpenDiscussionsController.php",
+		"/Users/alonsocn/Kargo/ControlPanel/library/ControlPanel/Model/Discussion.php",
+		"/Users/alonsocn/Kargo/ControlPanel/library/ControlPanel/Model/User.php",
+		"/Users/alonsocn/Kargo/ControlPanel/library/Services/Api/RestController.php",
+		"/Users/alonsocn/Kargo/komponents/src/date-picker/date-picker.template.html",
+		"/Users/alonsocn/Kargo/komponents/src/date-picker/date-picker.component.ts",
+		"/Users/alonsocn/Kargo/komponents/dist/date-picker/date-picker.component.js",
+		"/Users/alonsocn/Kargo/komponents/dist/date-picker/date-picker.component.d.ts",
+		"/Users/alonsocn/Downloads/integrations_hubgeo-matches-5-24-19.sql",
+		"/Users/alonsocn/Downloads/integrations_hub-geo-matches-5-24-19 2.sql",
+		"/Users/alonsocn/Desktop/ZipCodesExample.cvs.csv",
+		"/Users/alonsocn/Downloads/integrations_hub_bidders.sql",
+		"/Users/alonsocn/Downloads/EjercicioNum1_Promedio.js",
+		"/Users/alonsocn/Downloads/integrations_hub_advertisers.sql",
+		"/Users/alonsocn/dump-marketplace-201807021217.sql",
+		"/Users/alonsocn/Downloads/integrations_hub_ad_formats.sql",
+		"/Users/alonsocn/Downloads/integrations_hub_dfp_geo_targeting.sql",
+		"/Users/alonsocn/old_workspace/gobusiness-api.yaml/go-business-api.yaml",
+		"/Users/alonsocn/Workspace/Kargo/ControlPanel/vendor/bundle/ruby/2.0.0/gems/aws-sdk-v1-1.52.0/lib/aws/api_config/Kinesis-2013-12-02.yml",
+		"/Users/alonsocn/Dropbox/Kargo/Kargo DB Backups/ad_builder_20170712-1.sql",
+		"/Users/alonsocn/Downloads/shop_20170712.sql",
+		"/Users/alonsocn/Downloads/k_users_2017-05-23.sql",
+		"/Users/alonsocn/Desktop/Kargo on Ubuntu.md",
+		"/Users/alonsocn/Workspace/Kargo/ControlPanel/marketplace.sql",
+		"/Users/alonsocn/Desktop/kargo files/Kargo on Ubuntu.md"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"filesReady",
+			");\n",
+			"this.filePaths",
+			"event",
+			"filesReady",
+			"uploaderOnSuccess",
+			"outputUpdatePreviewerFiles",
+			"preloadFiles",
+			"widgetUploaderFiles",
+			"this.rooftop",
+			"rooftop",
+			"this.rooftop",
+			"stepCompletedChange",
+			"datesStepCompleted",
+			"stepCompletedChange",
+			"console.info",
+			"console.",
+			"console",
+			"uploadSuccess",
+			"outputUpdatePreviewerFiles",
+			"onUpdatePreviewerFiles",
+			"updatePreviewerFiles",
+			"fileDetails",
+			"fileUploadEvent",
+			"uploadSuccess",
+			"successUpload",
+			"outputSuccessUpload",
+			"uploaderOnSuccess",
+			"complete",
+			"outputComplete",
+			"events",
+			"outputComplete",
+			"o",
+			"outputComplete",
+			"processFiles",
+			"inputFile",
+			"processFiles",
+			"app-uploader-widget"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 156.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"budget-request compo ts",
+				"src/app/pages/master-budgeting/budget-edit/budget-request/budget-request.component.ts"
+			],
+			[
+				"uploadService",
+				"src/app/pages/master-budgeting/uploader/services/upload.service.ts"
+			],
+			[
+				"uploader compo html",
+				"src/app/pages/master-budgeting/uploader/uploader.component.html"
+			],
+			[
+				"appUpl",
+				"src/app/pages/master-budgeting/uploader/uploader.component.ts"
+			],
+			[
+				"ploader.widget.component.html",
+				"src/app/pages/master-budgeting/uploader/uploader.widget.component.html"
+			],
+			[
+				"budget request dates html",
+				"src/app/pages/master-budgeting/budget-edit/budget-request-dates/budget-request-dates.component.html"
+			],
+			[
+				"uploder compo html",
+				"src/app/pages/master-budgeting/uploader/uploader.component.html"
+			],
+			[
+				"atlas",
+				"server/shared/clients/atlasClient.js"
+			],
+			[
+				"budgeRequestEma",
+				"server/api/mbs/budgetRequest/helpers/budgetRequestEmailService.js"
+			],
+			[
+				"heal ceck repor table htm",
+				"src/app/pages/health-check/health-check-report-table/health-check-report-table.component.html"
+			],
+			[
+				"health ch table",
+				"src/app/pages/health-check/health-check-report-table/health-check-report-table.component.ts"
+			],
+			[
+				"health check repo table",
+				"src/app/pages/health-check/health-check-report-table/health-check-report-table.component.ts"
+			],
+			[
+				"health check  table",
+				"src/app/pages/health-check/health-check-report-table/health-check-report-table.component.ts"
+			],
+			[
+				"nippet-template.component.html",
+				"client/deal-dashboard/deal-groups/creatives/add-edit-snippet/snippet-template/snippet-template.component.html"
+			],
+			[
+				"snippet compo",
+				"client/deal-dashboard/deal-groups/creatives/add-edit-snippet/snippet-template/snippet-template.component.ts"
+			],
+			[
+				"disc",
+				"client/deal-dashboard/deal-groups/discussion/discussion.component.ts"
+			],
+			[
+				"discussion compo",
+				"client/deal-dashboard/deal-groups/discussion/discussion.component.ts"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"docker",
+				"Dockerfile"
+			],
+			[
+				"dock comp",
+				"docker-compose.yml"
+			],
+			[
+				"OpenD",
+				"application/apiv1/controllers/OpenDiscussionsController.php"
+			],
+			[
+				"model discus",
+				"library/ControlPanel/Model/Discussion.php"
+			],
+			[
+				"model user",
+				"library/ControlPanel/Model/User.php"
+			],
+			[
+				"model discusion",
+				"library/ControlPanel/Model/Discussion.php"
+			],
+			[
+				"OpenDi",
+				"application/apiv1/controllers/OpenDiscussionsController.php"
+			],
+			[
+				"/date-picker.template.html",
+				"src/date-picker/date-picker.template.html"
+			],
+			[
+				"dat",
+				"dist/date-picker/date-picker.component.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
